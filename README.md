@@ -15,21 +15,21 @@ This repository is dedicated to learning and practicing React.js, containing mul
 -  React Router Documentation
 -  Youtube tutorials freeCodeCamp.org
 
-### 2. React Redux
+### 2. Redux
 
-- This project focuses on learning the fundemental concepts and basic principles of React Redux and implementaion 
+- This project focuses on learning the fundemental concepts and basic principles of Redux and implementaion 
 
 #### Resources
 
--  React Redux Documentation
+-  Redux Documentation
 -  Youtube tutorials by CodeEvolution
 
-  ### 2. React Redux-Toolkit
+  ### 2. Redux-Toolkit
 
-- This project focuses on learning the fundemental concepts and basic principles of React Redux-Toolkit and implementaion 
+- This project focuses on learning the fundemental concepts and basic principles of Redux-Toolkit and implementaion 
 
 #### Resources
 
--  React Redux-Toolkit Documentation
+-  Redux-Toolkit Documentation
 -  Youtube tutorials by CodeEvolution
   
