@@ -23,4 +23,13 @@ This repository is dedicated to learning and practicing React.js, containing mul
 
 -  React Redux Documentation
 -  Youtube tutorials by CodeEvolution
+
+  ### 2. React Redux-Toolkit
+
+- This project focuses on learning the fundemental concepts and basic principles of React Redux-Toolkit and implementaion 
+
+#### Resources
+
+-  React Redux-Toolkit Documentation
+-  Youtube tutorials by CodeEvolution
   
