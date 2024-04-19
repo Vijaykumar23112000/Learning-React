@@ -6,13 +6,21 @@ This repository is dedicated to learning and practicing React.js, containing mul
 
 ## Projects
 
-1. React Router Dom
+### 1. React Router Dom
     
 - This project focuses on learning React Router DOM, a popular library for routing in React applications and understanding how to implement routing in React
 
-
-
-## Resources
+#### Resources
 
 -  React Router Documentation
--  freeCodeCamp.org
+-  Youtube tutorials freeCodeCamp.org
+
+### 2. React Redux
+
+- This project focuses on learning the fundemental concepts and basic principles of React Redux and implementaion 
+
+#### Resources
+
+-  React Redux Documentation
+-  Youtube tutorials by CodeEvolution
+  
