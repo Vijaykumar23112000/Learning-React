@@ -40,4 +40,12 @@ This repository is dedicated to learning and practicing React.js, containing mul
 #### Resources
 
 -  Youtube tutorials by freeCodeCamp.org
-  
+
+  ### 4. React-Router-Dom v6
+
+- This project focuses on going through the updated React Router DOM, a popular library for routing in React applications and understanding how to implement routing in React
+
+#### Resources
+
+-  Youtube tutorials by freeCodeCamp.org
+-  Cosden Solutions
