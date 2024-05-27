@@ -1,11 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
-import Home from './components/Home';
-import ErrorElement from './components/ErrorElement';
+import Home from './components/cosden/Home';
+import ErrorElement from './components/cosden/ErrorElement';
 import './index.css'
-import ProfilesPage from './components/ProfilesPage';
-import ProfilePage from './components/ProfilePage';
+import ProfilesPage from './components/cosden/ProfilesPage';
+import ProfilePage from './components/cosden/ProfilePage';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 

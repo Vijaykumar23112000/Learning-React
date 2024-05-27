@@ -47,5 +47,4 @@ This repository is dedicated to learning and practicing React.js, containing mul
 
 #### Resources
 
--  Youtube tutorials by freeCodeCamp.org
 -  Cosden Solutions
