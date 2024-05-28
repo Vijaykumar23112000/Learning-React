@@ -95,3 +95,42 @@
 - **color** prop -> primary , secondary , ....... 
 - **onClick** prop -> this prop has to be specified on individual buttons tho...
 - **aria-label** -> Its recomended to add aria-label="alignment button group" in ButtonGroup. This will help with accessibility
+
+# Toggle Button 
+
+- Toggle Button are used to group related options
+
+- For this example , we will import ToggleButtonGroup , ToggleButton and 3 icons from mui icons
+
+```bash
+    import ToggleButton from '@mui/material/ToggleButton';
+    import ToggleButtonGroup from '@mui/material/ToggleButtonGroup';
+    import FormatBoldIcon from '@mui/icons-material/FormatBold';
+    import FormatItalicIcon from '@mui/icons-material/FormatItalic';
+    import FormatUnderlinedIcon from '@mui/icons-material/FormatUnderlined';
+    import {useState} from 'react'
+
+    const [formats , setFormats] = useState(null)
+
+    console.log(formats)
+
+    const handleFormatChange(e,updatedFormats) => {
+        setFormats(updatedFormats)
+    }
+
+    <Stack diriction = "row">
+        <ToggleButtonGroup aria-label="text formatting" value = {formats} onChange = {handleFormatChange}>
+            <ToggleButton value="bold aria-label="bold"><FormatBoldIcon/></ToggleButton> 
+            <ToggleButton value="italic aria-label="italic"><FormatItalicIcon/></ToggleButton> 
+            <ToggleButton value="underlined aria-label="underlined"><FormatUnderlinedIcon/></ToggleButton> 
+        </ToggleButtonGroup>
+    </Stack>
+
+```
+
+## props used with ToggleButtonGroup
+
+- size -> small , medium , large
+- color -> primary , secondary , success ....
+- orientation -> horizontal by defau;t , we can change it to vertical
+- exclusive -> adding this prop on togglebuttongroup will make sure only on button from the group will be selected .. multiple buttons cannot be selected
